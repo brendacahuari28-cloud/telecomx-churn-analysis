@@ -26,3 +26,7 @@ Se realizó un proceso de:
 1. Descargar el archivo `.ipynb`
 2. Abrirlo en Google Colab
 3. Ejecutar las celdas del notebook para reproducir el análisis.
+
+## Fuente de datos
+
+Los datos utilizados en este proyecto provienen de una API proporcionada en el desafío Telecom X de Alura Latam. Los datos fueron extraídos en formato JSON y procesados utilizando Python y Pandas.
